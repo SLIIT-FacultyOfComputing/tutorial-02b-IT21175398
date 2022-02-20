@@ -27,3 +27,19 @@ int main() {
   std::cout << std::endl;
   return 0;
 }
+
+long Factorial(int no){
+  int result;
+  result = fac * n;
+
+  return result;
+}
+
+
+long nCr(int n, int r){
+  int result;
+
+  result = n!/ r!(n−r)!;
+  return result;
+
+}
